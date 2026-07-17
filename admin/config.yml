@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: YOURUSERNAME/mywiki
+  repo: junekuhn/byukakrow
   branch: main
 
 media_folder: assets/images
