@@ -1,0 +1,18 @@
+media:
+  input: assets/images
+  output: /assets/images
+
+content:
+  - name: pages
+    label: Wiki Pages
+    type: collection
+    path: pages
+
+    fields:
+      - name: title
+        label: Title
+        type: string
+
+      - name: body
+        label: Content
+        type: rich-text
